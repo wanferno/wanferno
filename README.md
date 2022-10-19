@@ -19,5 +19,5 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Besides technology I like to draw, swim and listen to music while I work (although in low key 😄 ).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanferno](https://github.com/anuraghazra/github-readme-stats)
+[![Maelaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanferno)](https://github.com/anuraghazra/github-readme-stats)
 
