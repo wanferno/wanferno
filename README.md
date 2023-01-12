@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - 🤔 I am looking to work for an internship position in cybersecurity.
 - 💬 Ask me about Java, Python, cibersecurity and linux.
 - 📫 How to reach me: 
-      -[Twitter](https://twitter.com/mael_laz)
+      //-[Twitter](https://twitter.com/mael_laz)
       -[Linkedln](https://www.linkedin.com/in/michaelpazminoc/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Besides technology I like to draw, swim and listen to music while I work (although in low key 😄 ).
