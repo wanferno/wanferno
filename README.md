@@ -4,6 +4,7 @@
 
 <!--
 **wanferno/wanferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently studying a career in information technology engineering.
@@ -17,5 +18,6 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Besides technology I like to draw, swim and listen to music while I work (although in low key 😄 ).
 
+<!--[![Maelaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanferno)](https://github.com/wanferno/github-readme-stats)
 
-[![Maelaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanferno)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanferno&layout=compact)](https://github.com/wanferno/github-readme-stats)-->
